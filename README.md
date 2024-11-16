@@ -1,5 +1,5 @@
 # SpeechTranscriber
- Converts speech to text
+ <h2>Converts speech to text</h2>
 
  <h1>After you choose a file to save your transcribed text you can speak and the program will write it down</h1> <br>
  <h2>Commands</h2>
